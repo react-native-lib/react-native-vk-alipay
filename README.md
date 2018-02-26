@@ -2,6 +2,9 @@
 
 React Native Module for alipay.com
 
+#v3.0.3
+rn>0.47
+
 ## install
 
 ```
